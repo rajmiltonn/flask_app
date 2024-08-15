@@ -10,7 +10,7 @@
 6. 7. [Author](#author)
 
 
----
+----
 
 ## Introduction
 
