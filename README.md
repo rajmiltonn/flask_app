@@ -7,7 +7,7 @@
 3. [Project Structure](#project-structure)
 4. [Database Schema](#database-schema)
 5. [SQL Queries](#sql-queries)
-6. 7. [Author](#author)
+6. [Author](#author)
 
 
 ----
