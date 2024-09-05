@@ -23,7 +23,7 @@ This project is a Flask API application developed as part of the Steptech Assign
 ### Prerequisites
 
 - Python 3.x installed on your machine.
-- MySQL database server installed locally.
+- MySQL database server installed locally..
 
 ### Steps to Set Up the Project
 
