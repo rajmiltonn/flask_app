@@ -14,7 +14,7 @@
 
 ## Introduction
 
-This project is a Flask API application developed as part of the Steptech Assignment for assessing skills in Python Flask, MySQL database interaction, and Git version control.
+This project is a Flask API application developed as part of the Steptech Assignment for assessing skills in Python Flask, MySQL database interaction, and Git version control..
 
 ---
 
