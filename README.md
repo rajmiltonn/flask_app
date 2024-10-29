@@ -1,4 +1,4 @@
-# Steptech Assignment - Flask API Project.
+# Steptech Assignment - Flask API Project
 
 ## Table of Contents
 
